@@ -691,3 +691,13 @@ h1 {
   animation: blinkCursor 0.8s infinite;
 }
 }
+.social-icon{
+    color: black;
+    font-size: 28px;
+    transition: 0.3s;
+}
+
+.social-icon:hover{
+    color: #E1306C;
+    transform: scale(1.2);
+}
